@@ -1,4 +1,4 @@
-# ecom_ui
+# BMI APP WITH RESPONSIVE UI
 
 A new Flutter project.
 
